@@ -282,6 +282,7 @@ color via `NO_COLOR`.
 | [Mercurial](https://www.mercurial-scm.org/) | `hg --color=never` (or [Docs for .hgrc](https://www.mercurial-scm.org/wiki/ColorExtension)) |
 | [Midnight Commander](https://midnight-commander.org/) | `mc --nocolor` |
 | [Packer](https://www.packer.io/) | `export PACKER_NO_COLOR=true` |
+| [Portage](https://gitweb.gentoo.org/proj/portage.git/) | `export NOCOLOR=true` |
 | [Radare](https://www.radare.org/r/) | `radare2 -e scr.color=0` |
 | [RSpec](http://rspec.info/) | `export SPEC_OPTS=--no-color` |
 | [Ruby (tests)](https://www.ruby-lang.org/) | `export RUBY_TESTOPTS=--color=never` |
